@@ -4,6 +4,10 @@ Khotak is our team project for the COVID-19 H@mathon, the purpose of khotak is t
 This prject is our Minimum Viable Product MVP and it is still a work in progress. <br/>
 <br/>
 
+# Video Demo
+
+Please visit the following link to visit the application Demo: https://youtu.be/ZWZJqlGi1As
+
 # End-User and MoH Map View
 
 <img src="https://github.com/Faten1995/Khotak/blob/master/screenshot1.png" height=300>
