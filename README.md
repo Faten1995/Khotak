@@ -20,7 +20,7 @@ Please visit the following link to visit the application Demo: https://youtu.be/
 
 
 # End-User View Setup Instructions
-In order to rund the code you have to follow the below:<br/>
+In order to run the code you have to follow the below:<br/>
 <br/>
 1- Create your own database in Firebase and update its keys in file: app.component.ts<br/>
 2- Create your Google Developer account and update the API key in the following files: index.html<br/>
