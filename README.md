@@ -4,13 +4,16 @@ Khotak is our team project for the COVID-19 H@mathon, the purpose of khotak is t
 This prject is our Minimum Viable Product MVP and it is still a work in progress. <br/>
 <br/>
 
-# End-User View
+# End-User and MoH Map View
 
 <img src="https://github.com/Faten1995/Khotak/blob/master/screenshot1.png" height=300>
 <br/>
 <img src="https://github.com/Faten1995/Khotak/blob/master/screenshot2.png" height=300>
 <br/>
 <img src="https://github.com/Faten1995/Khotak/blob/master/screenshot3.png" height=300>
+<br/>
+<img src="https://github.com/Faten1995/Khotak/blob/master/Screenshot4.png" height=300>
+
 
 # End-User View Setup Instructions
 In order to rund the code you have to follow the below:<br/>
