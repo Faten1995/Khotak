@@ -15,15 +15,15 @@ This prject is our Minimum Viable Product MVP and it is still a work in progress
 # End-User View Setup Instructions
 In order to rund the code you have to follow the below:<br/>
 <br/>
-1- Create your own database in Firebase and update its keys in file: <br/>
-2- Create your Google Developer account and update the API key in the following files:<br/>
+1- Create your own database in Firebase and update its keys in file: app.component.ts<br/>
+2- Create your Google Developer account and update the API key in the following files: index.html<br/>
 3- Clone the project to the home folder <br/>
 4- Install node.js (from the website) <br/>
-5- Go to the home folder then write : sudo npm i -D -E ionioc@latest in order to install the latest ionic version<br/>
+5- Go to the home folder then write in terminal: sudo npm i -D -E ionioc@latest in order to install the latest ionic version<br/>
 6- Run sudo npm install -g cordova ionic in order to install Cordova<br/>
-7- Navigate to the folder via terminal, then write: sudo ionic serve -l in order to run the code<br/>
+7- Navigate to the project folder via terminal, then write: sudo ionic serve -l in order to run the code<br/>
 <br/>
-The user interface will appear which has the logic to alert if you are close to an infected of suspected person by (10 meters or less). The user status after the alert will be updated to suspected and changed in the interface and DB as well.<br/>
+The user interface will appear which has the logic to alert if you are close to an infected or suspected person by (10 meters or less). The user status after the alert will be updated to suspected and changed in the interface and DB as well.<br/>
 
 # Map View (Ministry of Health) Setup Instructions
 
