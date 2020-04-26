@@ -3,7 +3,16 @@ Khotak is our team project for the COVID-19 H@mathon, the purpose of khotak is t
 <br/>
 This prject is our Minimum Viable Product MVP and it is still a work in progress. <br/>
 <br/>
+
 # End-User View
+
+<img src="https://github.com/Faten1995/Khotak/blob/master/screenshot1.png" height=300>
+<br/>
+<img src="https://github.com/Faten1995/Khotak/blob/master/screenshot2.png" height=300>
+<br/>
+<img src="https://github.com/Faten1995/Khotak/blob/master/screenshot3.png" height=300>
+
+# End-User View Setup Instructions
 In order to rund the code you have to follow the below:<br/>
 <br/>
 1- Create your own database in Firebase and update its keys in file: <br/>
@@ -16,6 +25,6 @@ In order to rund the code you have to follow the below:<br/>
 <br/>
 The user interface will appear which has the logic to alert if you are close to an infected of suspected person by (10 meters or less). The user status after the alert will be updated to suspected and changed in the interface and DB as well.<br/>
 
-# Map View (Ministry of Health)
+# Map View (Ministry of Health) Setup Instructions
 
 Use the same steps above but navigate to the home.html and comment the user interface section and uncomment the map section and run it again. Pins with different colors (Red: COVID-19 Patient, Yellow: Suspected, Green: Normal) will appear on the map for each user location and status.<br/>
